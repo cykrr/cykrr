@@ -18,9 +18,7 @@ Me gustan mucho los sistemas operativos (Linux!) he utilizado la mayoría de dis
 
 Me llama mucho la atención todo lo que tiene que ver con linux en el celular / dispositivo móvil, es más, creo que una tablet con linux bien configurada sería una herramienta muy útil. Tanto que estoy dispuesto en invertir una cantidad inmesurable de tiempo en desarrollarla.
 
-He seguido muy de cerca todo el trabajo de [Switchroot](https://switchroot.org)
-
-Me gustaría tener un pinephone (regálame uno).
+He seguido muy de cerca todo el trabajo de [Switchroot](https://switchroot.org). Gracias a todo el equipo puedo usar linux y android en mi Switch <3. Planeo desarrollar un sistema operativo movil basado en linux :D (regalenme un pinephone).
 
 
 
