@@ -14,6 +14,8 @@ Me gusta tener un dominio general de los temas que me gustan. He trabajado en C,
 
 Me gustan mucho los sistemas operativos (Linux!) he utilizado la mayoría de distribuciones, partiendo en linux mint a mis 12 años, pasando por debians, fedoras y slackware para finalmente asentarme en Arch/Artix (aunque odio actualizar a cada rato, es muy práctico estar actualizado), aunque a veces uso Void por tener una versión en Musl (muerte a Glibc).
 
+Gracias a mi experiencia poseo cierta soltura a la hora de configurar servidores/dispositivos. Siempre estoy configurando servidores ya sea HTTP, SSH, entre otros. Principalmente para uso personal como por ejemplo escuchar mi musica, hostear mis paginas o conectarme a mis dispositivos.
+
 ### Linux móvil
 
 Me llama mucho la atención todo lo que tiene que ver con linux en el celular / dispositivo móvil, es más, creo que una tablet con linux bien configurada sería una herramienta muy útil. Tanto que estoy dispuesto en invertir una cantidad inmesurable de tiempo en desarrollarla.
