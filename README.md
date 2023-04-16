@@ -1,10 +1,10 @@
 # Holas 👋
 
-Holaa, soy un estudiante de informática, aunque me gusta más la computación. Mi pasión es todo lo que no sea fome, por ejemplo, la geometría (3D), la física, la matemática y la animación. Tengo más ideas que tiempo y habilidades, me gusta estar siempre aprendiendo cosas entretenidas, aunque aprendo muchas cosas fomes en la Universidad, supongo que algún día me servirán xd.
+Holaa, soy un estudiante de informática, aunque me gusta más la computación. Mi pasión es todo lo que no sea fome, por ejemplo, la geometría (3D), la física, la matemática y la animación. Tengo más ideas que tiempo y habilidades, me gusta estar siempre aprendiendo cosas entretenidas.
 
 ## Dominio 🔭
 
-Me gusta tener un dominio general de los temas que me gustan. He trabajado en C, C++, Java, Python, Lua, un poco de Lisp, un poco de PHP, me defiendo en HTML, CSS y Javascript . No me gusta mucho utilizar frameworks, aunque considero pertinente aprenderlos, he jugado un poco con React, aunque no demasiado. Más dominio tengo en JavaFX, aunque no es muy entretenido. Me entretengo mucho con [borealis](https://github.com/natinusala/borealis), aunque me cueste mucho entenderlo. Si tuviera tiempo, haría mi propia interfaz gráfica en OpenGL.
+Me gusta tener un dominio general de los temas que me gustan. He trabajado en C, C++, Java, Python, Lua, un poco de Lisp, un poco de PHP, me defiendo en HTML, CSS y Javascript . No me gusta mucho utilizar frameworks, aunque considero pertinente aprenderlos, he jugado un poco con React, aunque no demasiado. Más dominio tengo en JavaFX, aunque no es muy entretenido. Me entretengo mucho con [borealis](https://github.com/natinusala/borealis), aunque me cueste mucho entenderlo. Si tuviera tiempo, haría mi propio toolkit gráfico (o aprenderia a utilizar nanoVG).
 
 
 
@@ -12,9 +12,9 @@ Me gusta tener un dominio general de los temas que me gustan. He trabajado en C,
 
 ### Linux en el PC
 
-Me gustan mucho los sistemas operativos (Linux!) he utilizado la mayoría de distribuciones, partiendo en linux mint a mis 12 años, pasando por debians, fedoras y slackware para finalmente asentarme en Arch/Artix (aunque odio actualizar a cada rato, es muy práctico estar actualizado), aunque a veces uso Void por tener una versión en Musl (muerte a Glibc).
+Me gustan mucho los sistemas operativos (Linux!) he utilizado la mayoría de distribuciones, partiendo en linux mint a mis 12 años, pasando por debian, fedora para finalmente asentarme en Arch/Artix (aunque odio actualizar a cada rato, es muy práctico estar actualizado), a veces uso void linux para probar MUSL, aunque últimamente paso más tiempo en gLibC por necesidad de correr aplicaciones enlazadas con dicha librería
 
-Gracias a mi experiencia poseo cierta soltura a la hora de configurar servidores/dispositivos. Siempre estoy configurando servidores ya sea HTTP, SSH, entre otros. Principalmente para uso personal como por ejemplo escuchar mi musica, hostear mis paginas o conectarme a mis dispositivos.
+Gracias a mi experiencia poseo cierta soltura a la hora de configurar servidores/dispositivos. Siempre estoy configurando servidores ya sea HTTP, SSH, SMB entre otros. Principalmente para uso personal como por ejemplo escuchar mi musica, hostear mis paginas o conectarme a mis dispositivos.
 
 ### Linux móvil
 
