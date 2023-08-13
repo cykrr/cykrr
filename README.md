@@ -1,42 +1,17 @@
-# Holas 👋
+# Hello! 👋
+My name is Benjamín. I'm a CS student @ Pontificia Universidad Católica de Valparaíso [PUCV].
+I'm in my third year and i like it so far 😃.
+## What I do
 
-Holaa, soy un estudiante de informática, aunque me gusta más la computación. Mi pasión es todo lo que no sea fome, por ejemplo, la geometría (3D), la física, la matemática y la animación. Tengo más ideas que tiempo y habilidades, me gusta estar siempre aprendiendo cosas entretenidas.
+I like messing around with linux servers, RPis, ESPs, Arduinos and so on. I LOVE hardware and I'm always looking for the next big thing. I'm always working in pose of having a better experience on my computer and making everything easier, I love bringing a good UX to me & my clients. I enjoy videogames and investigating them. I like replicating cool UIs, animations, websites to develop my skillset.
 
-## Dominio 🔭
+I'm always working on my next big project. Be it setting up a server for XYZ, cook up some program to run on my Pi 24/7. 
 
-Me gusta tener un dominio general de los temas que me gustan. He trabajado en C, C++, Java, Python, Lua, un poco de Lisp, un poco de PHP, me defiendo en HTML, CSS y Javascript . No me gusta mucho utilizar frameworks, aunque considero pertinente aprenderlos, he jugado un poco con React, aunque no demasiado. Más dominio tengo en JavaFX, aunque no es muy entretenido. Me entretengo mucho con [borealis](https://github.com/natinusala/borealis), aunque me cueste mucho entenderlo. Si tuviera tiempo, haría mi propio toolkit gráfico (o aprenderia a utilizar nanoVG).
+## Experiments
 
+![graph](https://github.com/cykrr/graph2) ⚠️ (WIP) A 3D graphical function visualizer made with OpenGL . C++
 
+![mdserve](https://github.com/cykrr/mdserve) ⚠️ (WIP) A Markdown based HTTP hosting solution that automatically renders to HTML on client's request . Written in C and unix sockets.
 
-## Linux
+![wl](https://github.com/cykrr/wl) ⚠️(WIP) A Widget toolkit that renders on top of desktop. Made to work specifically with wl-roots compositors. (similar to ![swww](https://github.com/elkowar/eww), but without gtk3)
 
-### Linux en el PC
-
-Me gustan mucho los sistemas operativos (Linux!) he utilizado la mayoría de distribuciones, partiendo en linux mint a mis 12 años, pasando por debian, fedora para finalmente asentarme en Arch/Artix (aunque odio actualizar a cada rato, es muy práctico estar actualizado), a veces uso void linux para probar MUSL, aunque últimamente paso más tiempo en gLibC por necesidad de correr aplicaciones enlazadas con dicha librería
-
-Gracias a mi experiencia poseo cierta soltura a la hora de configurar servidores/dispositivos. Siempre estoy configurando servidores ya sea HTTP, SSH, SMB entre otros. Principalmente para uso personal como por ejemplo escuchar mi musica, hostear mis paginas o conectarme a mis dispositivos.
-
-### Linux móvil
-
-Me llama mucho la atención todo lo que tiene que ver con linux en el celular / dispositivo móvil, es más, creo que una tablet con linux bien configurada sería una herramienta muy útil. Tanto que estoy dispuesto en invertir una cantidad inmesurable de tiempo en desarrollarla.
-
-He seguido muy de cerca todo el trabajo de [Switchroot](https://switchroot.org). Gracias a todo el equipo puedo usar linux y android en mi Switch <3. Planeo desarrollar un sistema operativo movil basado en linux :D (regalenme un pinephone).
-
-
-
-
-
-<!--
-**cykrr/cykrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
