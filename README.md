@@ -14,5 +14,5 @@ Investigation aside I like developing, designing and deploying usable and enjoya
 
 [mdserve](https://github.com/cykrr/mdserve) ⚠️ (WIP) A Markdown based HTTP hosting solution that automatically renders to HTML on client's request . Written in C and unix sockets.
 
-[wl](https://github.com/cykrr/wl) ⚠️(WIP) A Widget toolkit that renders on top of desktop. Made to work specifically with wl-roots compositors. (similar to ![swww](https://github.com/elkowar/eww), but without gtk3)
+[wl](https://github.com/cykrr/wl) ⚠️(WIP) A Widget toolkit that renders on top of desktop. Made to work specifically with wl-roots compositors. (similar to [swww](https://github.com/elkowar/eww), but without gtk3)
 
