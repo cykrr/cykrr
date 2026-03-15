@@ -56,4 +56,4 @@ I build low-level tools, graphics engines, and networking utilities. I'm passion
 
 ### 📬 Connect with me
 
-[LinkedIn]([https://www.google.com/search?q=%23](https://www.linkedin.com/in/benjam%C3%ADn-robles-7770ba3b1/)) | [Portfolio](https://www.krr.cl)
+[LinkedIn]([https://www.google.com/search?q=%23](https://www.linkedin.com/in/benjam%C3%ADn-robles-7770ba3b1/) | [Portfolio](https://www.krr.cl)
