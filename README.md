@@ -1,6 +1,6 @@
 # Hello! 👋
 My name is Benjamín. I'm a CS student @ Pontificia Universidad Católica de Valparaíso [PUCV].
-I'm in my fourth year and i like it so far 😃.
+I'm in my sixth year.
 
 
 ## My stuff
