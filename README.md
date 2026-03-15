@@ -29,8 +29,8 @@ Me especializo en el desarrollo de sistemas de bajo nivel, herramientas gráfica
 
 A través de **krr**, desarrollo soluciones que mezclan branding, web y educación:
 
-- **E-commerce & Branding:** Desarrollo de plataformas personalizadas (ej. *Florería Coral* usando Cloudflare Wrangler).
-- **Videojuegos Educativos:** Creación de experiencias interactivas como *Biolab Escape* y *PlanetariumVR*.
+- **E-commerce & Branding:** Desarrollo de plataformas personalizadas (ej. *Florería Coral* usando Wordpress).
+- **Videojuegos Educativos:** Creación de experiencias interactivas como *Biolab Escape* y *PlanetariumVR*. (Unity)
 - **Diseño Web:** Foco en performance y estética funcional.
 
 ---
