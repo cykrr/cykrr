@@ -1,59 +1,60 @@
+# Hola, soy Benjamín (cykrr) 👋
 
-# Hi, I'm Benjamín 👋
+**Estudiante de Ingeniería Civil Informática @ [PUCV](https://www.pucv.cl)** | **Software Developer @ [krr.cl](https://krr.cl)**
 
-**CS Student @ Pontificia Universidad Católica de Valparaíso**
-
-I build low-level tools, graphics engines, and networking utilities. I'm passionate about C/C++, Linux internals, and performance optimization.
-
----
-
-## 🛠️ Featured Projects
-
-### 📈 [graph2](https://github.com/cykrr/graph2)
-
-*A high-performance 3D graphical function visualizer.*
-
-* **The Core:** Built from the ground up using **C++** and **OpenGL**.
-* **Features:** Real-time rendering of mathematical surfaces with custom shader support.
-* **Status:** ⚠️ Work in Progress (Refining the math parser).
-
-### 🌐 [mdserve](https://github.com/cykrr/mdserve)
-
-*A Markdown-based HTTP hosting solution.*
-
-* **The Core:** Written in **C** using raw **Unix sockets**.
-* **Philosophy:** No heavy frameworks. It automatically renders Markdown to HTML on the fly upon client request.
-* **Status:** ⚠️ Work in Progress (Implementing keep-alive connections).
-
-### 🖥️ [wl](https://github.com/cykrr/wl)
-
-*A lightweight widget toolkit for Wayland.*
-
-* **The Core:** Designed specifically for **wlroots**-based compositors.
-* **The "Why":** An alternative to GTK-based solutions (like eww), focusing on minimal dependencies and direct compositor interaction.
-* **Status:** ⚠️ Work in Progress (Defining the DSL for layouts).
+Me especializo en el desarrollo de sistemas de bajo nivel, herramientas gráficas y soluciones web personalizadas. Me apasiona entender cómo funcionan las cosas "bajo el capó", desde los sockets de Unix hasta los shaders de OpenGL.
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Proyectos Destacados (Sistemas & Low-level)
 
-| Category | Tools |
-| --- | --- |
-| **Languages** | C, C++, Python, Bash |
-| **Graphics/UI** | OpenGL, wlroots, GLSL |
-| **Systems** | Linux, Unix Sockets, POSIX Threads |
-| **Tools** | Git, Vim/Neovim, CMake, Make |
+### [graph2](https://github.com/cykrr/graph2) ⚠️
+*Visualizador de funciones 3D de alto rendimiento.*
+- **Tech:** C++, OpenGL, GLSL.
+- **Enfoque:** Renderizado en tiempo real de superficies matemáticas con una arquitectura modular.
+
+### [mdserve](https://github.com/cykrr/mdserve) ⚠️
+*Hosting HTTP minimalista enfocado en Markdown.*
+- **Tech:** C, Unix Sockets.
+- **Enfoque:** Servidor web escrito desde cero que renderiza MD a HTML dinámicamente según la petición del cliente.
+
+### [wl](https://github.com/cykrr/wl) ⚠️
+*Widget toolkit nativo para Wayland.*
+- **Tech:** C, wlroots.
+- **Enfoque:** Una alternativa ligera a GTK/Qt para crear interfaces de escritorio en compositores basados en wlroots.
 
 ---
 
-## 🎓 Education
+## 💼 Trabajo en krr.cl (Diseño & Desarrollo)
 
-* **Computer Science Engineering**
-* Pontificia Universidad Católica de Valparaíso [PUCV]
-* *Expected Graduation: 2026*
+A través de **krr**, desarrollo soluciones que mezclan branding, web y educación:
+
+- **E-commerce & Branding:** Desarrollo de plataformas personalizadas (ej. *Florería Coral* usando Cloudflare Wrangler).
+- **Videojuegos Educativos:** Creación de experiencias interactivas como *Biolab Escape* y *PlanetariumVR*.
+- **Diseño Web:** Foco en performance y estética funcional.
 
 ---
 
-### 📬 Connect with me
+## 🛠️ Stack Tecnológico
 
-[LinkedIn](https://www.linkedin.com/in/benjam%C3%ADn-robles-7770ba3b1/) | [Portfolio](https://www.krr.cl)
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | C, C++, Python, JavaScript (Node.js) |
+| **Gráficos & VR** | OpenGL, GLSL, WebGL |
+| **Sistemas/Web** | Unix Sockets, Cloudflare Workers, Wayland |
+| **Herramientas** | Neovim, Git, CMake, Linux (Desktop & Server) |
+
+---
+
+## 🎓 Educación
+- **Ingeniería Civil Informática**
+- Pontificia Universidad Católica de Valparaíso [PUCV]
+- *Cursando 6to año*
+
+---
+
+## 📫 Contacto
+- **Sitio Web:** [krr.cl](https://krr.cl)
+- **GitHub:** [@cykrr](https://github.com/cykrr)
+- **LinkedIn:** [Benjamín Robles](https://www.linkedin.com/in/benjam%C3%ADn-robles-7770ba3b1/)
+- **Ubicación:** Viña del Mar / Valparaíso, Chile 🇨🇱
