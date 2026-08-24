@@ -1,6 +1,6 @@
 # Hola, soy Benjamín (cykrr) 👋
 
-**Estudiante de Ingeniería Civil Informática @ [PUCV](https://www.pucv.cl)** | **Software Developer @ [krr.cl](https://krr.cl)**
+**Software Developer @ [krr.cl](https://krr.cl)**
 
 Me especializo en el desarrollo de sistemas de bajo nivel, herramientas gráficas y soluciones web personalizadas. Me apasiona entender cómo funcionan las cosas "bajo el capó", desde los sockets de Unix hasta los shaders de OpenGL.
 
